@@ -2,6 +2,8 @@
 
 这里为大家整理了一些与神经辐射场（NeRF）相关的重要论文和资源，希望能帮助对NeRF研究感兴趣的同仁们。
 
+[高斯分割] ( https://github.com/XiaomingX/awesome-3D-gaussian-splatting )
+
 ## 主要论文
 
 | 年份 | 会议/期刊 | 代码 | 标题 | 其他信息 |
